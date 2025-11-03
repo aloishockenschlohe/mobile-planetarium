@@ -15,3 +15,4 @@ Sie wird mithilfe von mehreren Fiberglasstäben in Form gehalten.
 
 # Quellen
 https://www.lss-planetariums.info/index.php?lang=en&menu=projector&page=projector
+https://www.wissenschaftskommunikation.de/format/mobiles-planetarium/
