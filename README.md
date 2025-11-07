@@ -22,5 +22,5 @@ Die Optik besteht aus zwei Kameraobjektiven:
 * ein 8mm-Fischaugen-Objektiv 
 
 # Quellen
-https://www.lss-planetariums.info/index.php?lang=en&menu=projector&page=projector
-https://www.wissenschaftskommunikation.de/format/mobiles-planetarium/
+* https://www.lss-planetariums.info/index.php?lang=en&menu=projector&page=projector
+* https://www.wissenschaftskommunikation.de/format/mobiles-planetarium/
