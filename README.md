@@ -14,7 +14,8 @@ Die Kuppel wird aus lichtdichtem, schwer entflammbaren Stoff gebaut. Sie besteht
 Segmenten, die mithilfe von Fiberglasstäben in Form gehalten (2 Stück an der Basis, 4 Stück von Basis zu Basis).
 
 # Der Projektor
-Als Projektor kommt ein handelsüblicher 1080p-Projektor zum Einsatz.
+Als Projektor kommt ein handelsüblicher 1080p-Beamer zum Einsatz. Bei diesem sollte auf eine gute Auflösung
+(Full HD, 1920x1080) und eine große Helligkeit geachtet werden, wie z. B. der Acer H6542BDi mit 5.200 ANSI-Lumen.
 
 # Die Optik
 Die Optik besteht aus zwei Kameraobjektiven:
@@ -34,3 +35,9 @@ Das Fisheye-Objektiv sollte eine Brennweite von 8mm besitzen, um ein 180°-Proje
 * https://www.wissenschaftskommunikation.de/format/mobiles-planetarium/
 * https://mobilesplanetarium.wixsite.com/space/post/wie-baue-ich-mir-einen-planetariumsprojektor
 * https://www.heise.de/select/ct-foto/2018/7/1527570896199130/df.1518.044-047.neu1.qxp_table_11652.html
+
+# Transparenz
+* Die Texte und Inhalte sind ohne KI-Unterstützung erstellt.
+* Der Autor erhält für die Erwähnung von Produkten oder Dienstleistungen in diesen Inhalten weder direkt noch indirekt Vergünstigungen, Leistungen oder finanziellen Zuwendungen.
+
+Have a lot of fun!
