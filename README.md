@@ -19,7 +19,7 @@ Als Projektor kommt ein handelsüblicher 1080p-Beamer zum Einsatz. Bei diesem so
 
 # Die Optik
 Die Optik besteht aus zwei Kameraobjektiven:
-* ein lichtstarkes 50mm-Objektiv (f/1.2)
+* ein lichtstarkes 50mm-Objektiv (f/1.2 oder f/1.4)
 * ein 8mm-Fischaugen-Objektiv
 
 Die Objektive werden so miteinander verbunden, dass sie über eine gemeinsame Bildebene verfügen. Um ein Zenitprisma
