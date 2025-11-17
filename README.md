@@ -7,11 +7,11 @@ selbst zu entwerfen bzw. zu bauen und den Prozess ausführlich zu beschreiben.
 Natürlich steht mein Projekt auf den Schultern von Riesen - es gibt eine ganze Anzahl DIY-Planetarien
 und entsprechende Bauanleitungen. Ich werde auf diese verlinken, wann immer ich sie verwendet habe.
 
-Für ein Planetarium mit einem Dom von vier Metern Durchmesser rechne ich aktuell mit ca. 2.000,- EUR.
+Für ein Planetarium mit einem Dom von vier Metern Durchmesser rechne ich aktuell mit Kosten von ca. 2.000,- EUR.
 
 # Die Kuppel
 Die Kuppel wird aus lichtdichtem, schwer entflammbaren Stoff gebaut. Sie besteht aus 16 miteinander vernähten
-Segmenten, die mithilfe von Fiberglasstäben (Zeltstangen) in Form gehalten (2 Stück an der Basis, 4 Stück von Basis zu Basis).
+Segmenten, die mithilfe von Fiberglasstäben (Zeltstangen) in Form gehalten werden (2 Stück an der Basis, 4 Stück von Basis zu Basis).
 
 # Der Projektor
 Als Projektor kommt ein handelsüblicher 1080p-Beamer zum Einsatz. Bei diesem sollte auf eine gute Auflösung
@@ -35,6 +35,7 @@ Das Fisheye-Objektiv sollte eine Brennweite von 8mm besitzen, um ein 180°-Proje
 * https://www.wissenschaftskommunikation.de/format/mobiles-planetarium/
 * https://mobilesplanetarium.wixsite.com/space/post/wie-baue-ich-mir-einen-planetariumsprojektor
 * https://www.heise.de/select/ct-foto/2018/7/1527570896199130/df.1518.044-047.neu1.qxp_table_11652.html
+* https://www.acer.com/de-de/support/product-support/H6542BDi/
 
 # Transparenz
 * Die Texte und Inhalte sind ohne KI-Unterstützung erstellt.
